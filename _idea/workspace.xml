@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="273892c6-1832-4db6-b8b1-a8a02fa57360" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="1xw8IcogBnnWFZdaixdgDcYnhgi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.FileClient">
+    <configuration name="FileClient" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FileClient" />
+      <module name="exercise1" />
+      <option name="PROGRAM_PARAMETERS" value="127.0.0.1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileServerThreadPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FileServerThreadPool" />
+      <module name="exercise1" />
+      <option name="PROGRAM_PARAMETERS" value="server_files" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.FileClient" />
+      <item itemvalue="Application.FileServerThreadPool" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FileClient" />
+        <item itemvalue="Application.FileServerThreadPool" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="273892c6-1832-4db6-b8b1-a8a02fa57360" name="Default Changelist" comment="" />
+      <created>1631254711591</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631254711591</updated>
+      <workItem from="1631254713103" duration="10401000" />
+      <workItem from="1631333024309" duration="1119000" />
+      <workItem from="1631349516212" duration="4472000" />
+      <workItem from="1631376481026" duration="7741000" />
+      <workItem from="1631416075919" duration="2835000" />
+      <workItem from="1631521046408" duration="1304000" />
+      <workItem from="1631522459040" duration="28200000" />
+      <workItem from="1631601798746" duration="6950000" />
+      <workItem from="1631666084779" duration="16019000" />
+      <workItem from="1631665549606" duration="673000" />
+      <workItem from="1631779627302" duration="5778000" />
+      <workItem from="1631758080136" duration="761000" />
+      <workItem from="1631858790384" duration="1215000" />
+      <workItem from="1633676510094" duration="537000" />
+      <workItem from="1634128184127" duration="38000" />
+      <workItem from="1681453552629" duration="2643000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="currentWorkingDirectory" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
